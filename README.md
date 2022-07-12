@@ -20,6 +20,7 @@ Aprendendo:
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/react-original.svg"(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" />
   <img align="right" alt="-pic" height="150" style="border-radius:50px;" src="https://xesque.rocketseat.dev/users/avatar/profile-50cf690b-32fb-4d20-93d7-1501375419c6-1641439174921.jpg">
 </div>
