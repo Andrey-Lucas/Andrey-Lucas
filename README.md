@@ -1,13 +1,11 @@
 Oi, eu sou o Andrey
 
--Estudante de Análise e Desenvolvimento de Sistemas
+-Formado em Análie Desenvolvimento de Sistemas
 Aprendendo:
--HTML5
--CSS3
+-React
 -JavaScript
 -UI/UX
--Python
--PHP7
+
 
 <!--<div align="center">
   <a href="https://github.com/Andrey-Lucas">
