@@ -7,7 +7,7 @@ Aprendendo:
 -UI/UX
 
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/Andrey-Lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Lucas&layout=compact&langs_count=7&theme=dark"/>
