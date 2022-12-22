@@ -8,17 +8,11 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andrey-Lucas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Andrey Lucas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Lucas&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
+  <img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Lucas&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
  
 </div>
-  <div align="center">
-     <img width="1200px" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Andrey-Lucas&theme=dark&border_radius=7.6&locale=pt-br)](https://git.io/streak-stats">
-  </div>
+ 
 
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
-</div>
 
   
   
@@ -41,11 +35,7 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andrey-Lucas}/count.svg" /></p> 
-<br>
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
