@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/72840768/209043363-b0661f4c-db7d-44aa-aa53-e2efd73373ee.png" width="250"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/72840768/209239286-2353f45c-f0cc-4b12-a22f-9ee1d7f787ec.png" width="250"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andrey+Lucas;I'm+27+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
