@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/72840768/209239286-2353f45c-f0cc-4b12-a22f-9ee1d7f787ec.png" width="250"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andrey+Lucas;I'm+27+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andrey+Lucas;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andrey-Lucas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Andrey Lucas github stats" /> 
