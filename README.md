@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:3b82f6&height=220&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <b>Focado em Python e IA</b><br> Aqui você encontra meus estudos, projetos e a evolução da minha jornada na tecnologia. </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:3b82f6&height=220&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <b>Atualmente focado em Python e IA</b><br> Aqui você encontra meus estudos, projetos e a evolução da minha jornada na tecnologia. </p>
 🎯 Badges
 <p align="left"> <!-- Linguagens --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <!-- Ferramentas --> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <!-- Sistemas/Outros --> <img src="https://img.shields.io/badge/Windows-0084FF?style=for-the-badge&logo=windows&logoColor=white" /> </p>
 🚀 Sobre mim
